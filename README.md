@@ -1,3 +1,6 @@
+![alt text](https://github.com/elttontullyo/audio_news/blob/main/banner.png)
+
+
 # Transformando Áudio em Texto
 
 **Audio news** é um projeto que visa converter notícias na forma textual, para a forma de audio.
@@ -22,4 +25,4 @@ Caso seu sistema operacional e/ou navegador sejam outros, por favor, consultar a
 Esse projeto não salvar nenhum arquivo, todo processo é realizado dinamicamente.
 
 
-![alt text](https://news.files.bbci.co.uk/ws/img/logos/og/brasil.png)
+
